@@ -1,5 +1,5 @@
-# Project proposal for *YOUR PROJECT TITEL*
-Author: *YOUR NAME*
+# Project proposal for<br>*GETTING STARTED WITH KAGGLE COMPETITIONS*
+Author: *MELISSA LIAO*
 
 ## 1. Why: Question/Topic being investigated 1pt
 
