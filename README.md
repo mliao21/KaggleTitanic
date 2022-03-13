@@ -1,4 +1,4 @@
-## Final Project Report
+# Machine Learning Project - Kaggle Titanic Competition
 
 ### Background on my code files
 We will go through my first Kaggle competition project, the `Titanic - Machine Learning from Disaster`. In this project, we are going to follow the following workflow:
